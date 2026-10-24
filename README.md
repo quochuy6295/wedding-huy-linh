@@ -1,4 +1,4 @@
-# Website Thiệp Cưới - Nguyễn Tiến & Ngọc Lan
+# Website Thiệp Cưới - Quốc Huy & Thùy Linh
 
 Website thiệp mời cưới được thiết kế đẹp mắt với các hiệu ứng animation và tương tác.
 
